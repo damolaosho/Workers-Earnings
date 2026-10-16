@@ -113,17 +113,6 @@ Share of each group in each salary band (US only).
 
 <img width="1051" height="587" alt="Screenshot 2026-10-16 at 12 00 25" src="https://github.com/user-attachments/assets/5ca5cf56-f4c1-4c76-88e0-fe20fcf6d92b" />
 
-
-
-## Repository structure
-
-```
-data/      cleaned or aggregated data only (see Data for redistribution terms)
-excel/     workbook: RAW DATA, CLEANED DATA, PIVOT TABLES, DASHBOARD
-tableau/   Tableau workbook (planned)
-docs/      cleaning log, screenshots
-```
-
 ## Tools
 
 Microsoft Excel (pivot tables, slicers, charts, dashboard)
