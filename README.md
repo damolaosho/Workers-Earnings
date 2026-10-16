@@ -1,4 +1,4 @@
-<img width="2098" height="1182" alt="image" src="https://github.com/user-attachments/assets/fc1a0368-dd80-40d1-bb87-7bc9639c09fe" /># Workers-Earnings
+# Workers-Earnings
 Analysis of 28K survey respondents: cleaning, outlier handling and median earnings by education, age and city. Excel + Tableau.
 
 
@@ -111,8 +111,7 @@ Share of each group in each salary band (US only).
 
 ## Dashboard
 
-<img width="1440" height="900" alt="Screenshot 2026-10-16 at 11 57 48" src="https://github.com/user-attachments/assets/a1cd9aea-3a84-4900-82bb-f5337430ac78" />
-
+<img width="1051" height="587" alt="Screenshot 2026-10-16 at 12 00 25" src="https://github.com/user-attachments/assets/5ca5cf56-f4c1-4c76-88e0-fe20fcf6d92b" />
 
 
 
