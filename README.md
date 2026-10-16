@@ -24,7 +24,7 @@ All results describe survey respondents, not the wider US workforce. See Limitat
 
 ## Data
 
-- **Source:** [
+- **Source:** [https://x.com/iam_Uchenna/status/1783882725985861662?s=20)]
 - **Collection:** self-reported, unverified responses gathered through a social media post (self-selected sample)
 - **Size:** 28,016 rows; 23,167 US rows used for all analysis
 - **Fields used:** country code, highest education completed, relevant years of experience in field, age group, annual salary (annualized)
